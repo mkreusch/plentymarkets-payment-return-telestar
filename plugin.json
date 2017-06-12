@@ -1,0 +1,23 @@
+{
+    "version"           : "1.0.0",
+    "name"              : "PaymentReturnTelestar",
+    "marketplaceName"   : {"de":"Ruecklieferung TELESTAR","en":"Return TELESTAR"},
+    "license"           : "MIT",
+    "pluginIcon"        : "icon_plugin_xs.png",
+    "price"             : 0.00,
+    "description"       : "",
+    "shortDescription"  : {"de": "","en": ""},
+    "categories"        : ["3519"],
+    "author"            : "Marcus Kreusch",
+    "authorIcon"        : "icon_author_xs.png",
+    "email"             : "info@kreusch-creative.de",
+    "phone"             : "",
+    "keywords"          : [],
+    "type"              : "payment",
+    "namespace"         : "PaymentReturnTelestar",
+    "serviceProvider"   : "PaymentReturnTelestar\\Providers\\MainServiceProvider",
+    "javaScriptFiles"   : [],
+    "containers"        : [],
+    "dataProviders"     : [],
+    "dependencies"      : []
+}
